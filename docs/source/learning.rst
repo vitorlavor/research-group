@@ -1,4 +1,4 @@
-Usage
+Learning Centre
 =====
 
 .. _installation:
